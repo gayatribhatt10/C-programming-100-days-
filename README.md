@@ -1,19 +1,21 @@
-#100 Days of C Programming
-##Practice Repository
-##Question Sets
+ # 100-days-coding-challenge
+## Name :Gayatri Bhatt
 
-Questions 1–10
-Questions 11–20
-Questions 21–30
-Questions 31–40
-Questions 41–50
-Questions 51–60
-Questions 61–70
-Questions 71–80
-Questions 81–90
-Questions 91–100
-Questions 101–110
-Questions 111–120
-Questions 121–130
-Questions 131–140
-Questions 141–150
+100 days of C programming - practice.
+
+### Questions
+- [1-10Q](./1-10Q)
+- [11-20Q](./11-20Q)
+- [21-30Q](./21-30Q)
+- [31-40Q](./31-40Q)
+- [41-50Q](./41-50Q)
+- [51-60Q](./51-60Q)
+- [61-70Q](./61-70Q)
+- [71-80Q](./71-80Q)
+- [81-90Q](./81-90Q)
+- [91-100Q](./91-100Q)
+- [101-110Q](./101-110Q)
+- [111-120Q](./111-120Q)
+- [121-130Q](./121-130Q)
+- [131-140Q](./131-140Q)
+- [141-150Q](./141-150Q)
