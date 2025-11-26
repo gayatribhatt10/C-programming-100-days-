@@ -1,6 +1,6 @@
-100 Days of C Programming
-Practice Repository
-Question Sets
+#100 Days of C Programming
+##Practice Repository
+##Question Sets
 
 Questions 1–10
 Questions 11–20
